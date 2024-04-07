@@ -1,4 +1,4 @@
-#version: '3.6'
+version: '3.6'
 services:
   Elasticsearch:
     image: elasticsearch:8.13.0
